@@ -12,6 +12,18 @@ A happy toy chess engine, just for fun :) If you want a proper chess engine, che
 x install chessy
 ```
 
+## Code insight
+
+Total: **73,441** lines of code across **156** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| CHeader | 26,999 | 10,317 | 4,354 | 42 |
+| Cpp | 25,799 | 9,856 | 5,812 | 83 |
+| Sh | 6,967 | 1,293 | 800 | 4 |
+| M4 | 6,908 | 1,873 | 817 | 8 |
+| Python | 3,556 | 823 | 960 | 19 |
+
 ## Source
 
 - **Upstream**: <https://github.com/jart/chessy>
@@ -29,21 +41,12 @@ x install chessy
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **73,441** lines of code across **156** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| CHeader | 26,999 | 10,317 | 4,354 | 42 |
-| Cpp | 25,799 | 9,856 | 5,812 | 83 |
-| Sh | 6,967 | 1,293 | 800 | 4 |
-| M4 | 6,908 | 1,873 | 817 | 8 |
-| Python | 3,556 | 823 | 960 | 19 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -54,4 +57,4 @@ Install metadata for chessy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:53:12Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:05:33Z._
